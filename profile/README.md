@@ -14,8 +14,10 @@ We're making plant care smart, simple, and data-driven. FYTA Beam is a smart pla
 ## 🔌 Community Integrations
 
 Discover how others are using the FYTA API:
-- **[Home Assistant Integration](https://www.home-assistant.io/integrations/fyta/t)** - Connect FYTA to your Home Assistant setup
-- **[Unfolded Circle Integration](https://github.com/FYTA-GmbH/uc-integration-fyta)** - Integration for Unfolded Circle Remote Two (🚧 in development)
+- **[Home Assistant Integration](https://www.home-assistant.io/integrations/fyta/)** - Seamlessly integrate FYTA with your Home Assistant ecosystem
+- **[Unfolded Circle Integration](https://github.com/FYTA-GmbH/uc-integration-fyta)** - Control your plants through the Unfolded Circle Remote interface
+- **[Homey Integration](https://homey.app/de-de/app/de.fyta/FYTA/)** - Add FYTA to your Homey smart home platform
+- **[openHAB Integration](https://github.com/seime/openhab-fyta)** - Monitor your plants using the openHAB binding
 
 ## 📱 FYTA Apps & Web
 
