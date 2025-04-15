@@ -8,13 +8,17 @@ We're making plant care smart, simple, and data-driven. FYTA Beam is a smart pla
 
 ## 🌱 Developer Resources
 
-- **[Public API Specification](https://fyta-io.notion.site/FYTA-Public-API-d2f4c30306f74504924c9a40402a3afd)** - Detailed API specifications and endpoints
+- **[Public API Specification](docs/FYTA-Public-API.md)** - Detailed API specifications and endpoints
 - **[IFTTT Integration Guide](https://fyta-io.notion.site/iFTTT-FYTA-497f22ec87294e8ea8484ac5e8f7de64)** - Connect FYTA to thousands of services
 
 ## 🔌 Community Integrations
 
 Discover how others are using the FYTA API:
 - **[Home Assistant Integration](https://www.home-assistant.io/integrations/fyta/)** - Seamlessly integrate FYTA with your Home Assistant ecosystem (🏆 Platinum quality integration) [**▶️ Video Guide**](https://youtu.be/PeNQQQk6Z5E)
+- **[FYTA Plant Card](https://github.com/FYTA-GmbH/fyta-plant-card)** - Custom card to display your FYTA plant information on your Home Assistant dashboard
+  <div align="left">
+    <img src="https://github.com/FYTA-GmbH/fyta-plant-card/raw/main/assets/card-image.png" alt="FYTA Plant Card Example" width="400"/>
+  </div>
 - **[Unfolded Circle Integration](https://github.com/FYTA-GmbH/uc-integration-fyta)** - Official FYTA integration for Unfolded Circle Remote, developed in partnership [**▶️ Video Guide**](https://youtu.be/pRwuLrct8fc)
 - **[Homey Integration](https://homey.app/de-de/app/de.fyta/FYTA/)** - Official FYTA integration for Homey, developed in partnership
 - **[openHAB](https://github.com/seime/openhab-fyta)** - Community-developed integration for monitoring your plants using the openHAB binding
