@@ -10,6 +10,7 @@ We're making plant care smart, simple, and data-driven. FYTA Beam is a smart pla
 
 - **[Public API Specification](docs/FYTA-Public-API.md)** - Detailed API specifications and endpoints
 - **[IFTTT Integration Guide](https://fyta-io.notion.site/iFTTT-FYTA-497f22ec87294e8ea8484ac5e8f7de64)** - Connect FYTA to thousands of services
+- **[FYTA CLI](https://pypi.org/project/fyta-cli/0.7.2/)** - Python command-line interface for interacting with FYTA devices and services
 
 ## 🔌 Community Integrations
 
